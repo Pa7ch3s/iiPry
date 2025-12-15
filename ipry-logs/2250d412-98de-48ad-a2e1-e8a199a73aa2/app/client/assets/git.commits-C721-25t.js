@@ -1,0 +1,2 @@
+import{h as i}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as e}from"./router-BoVIwh1i.js";async function s({request:o}){const t=await o.json();return await window.main.git.multipleCommitToGitRepo({projectId:t.projectId,workspaceId:t.workspaceId,commits:t.commits}),t.push?window.main.git.pushToGitRemote({projectId:t.projectId,workspaceId:t.workspaceId}):{errors:[]}}const a=e(o=>t=>o(JSON.stringify(t),{action:i("/git/commits"),method:"POST",encType:"application/json"}));export{s as c,a as u};
+//# sourceMappingURL=git.commits-C721-25t.js.map

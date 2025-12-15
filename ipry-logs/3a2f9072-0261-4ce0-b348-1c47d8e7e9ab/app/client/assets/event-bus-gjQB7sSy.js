@@ -1,0 +1,2 @@
+const i="OAUTH2_AUTHORIZATION_STATUS_CHANGE";class n{constructor(){this.events={CLOSE_TAB:[],CHANGE_ACTIVE_ENV:[],[i]:[]}}on(s,t){this.events[s]||(this.events[s]=[]),this.events[s].push(t)}off(s,t){this.events[s]&&(this.events[s]=this.events[s].filter(e=>e!==t))}emit(s,...t){this.events[s]&&this.events[s].forEach(e=>e(...t))}}const T=new n;export{i as O,T as u};
+//# sourceMappingURL=event-bus-gjQB7sSy.js.map

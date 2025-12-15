@@ -1,0 +1,2 @@
+import{h as r}from"./chunk-WY5IRSCW-1dc6FieG.js";import{i}from"./invariant-DVddvGrP.js";import{c as e}from"./router-BoVIwh1i.js";async function s({request:n}){const t=await n.json();return i(typeof t.branch=="string","Branch is required"),window.main.git.createNewGitBranch(t)}const h=e(n=>t=>n(JSON.stringify(t),{method:"POST",action:r("/git/branch/new"),encType:"application/json"}));export{s as c,h as u};
+//# sourceMappingURL=git.branch.new-BvBAmjXB.js.map

@@ -1,0 +1,2 @@
+import{h as o}from"./chunk-WY5IRSCW-1dc6FieG.js";import{b as c}from"./router-BoVIwh1i.js";async function h({request:t}){const s=new URL(t.url),e=Object.fromEntries(s.searchParams.entries()),r=e.workspaceId,a=e.projectId;return window.main.git.gitChangesLoader({projectId:a,workspaceId:r})}const m=c(t=>({projectId:s,workspaceId:e})=>{const r=new URLSearchParams;return e&&r.set("workspaceId",e),r.set("projectId",s),t(`${o("/git/changes")}?${r.toString()}`)});export{h as c,m as u};
+//# sourceMappingURL=git.changes-CufBSoA0.js.map

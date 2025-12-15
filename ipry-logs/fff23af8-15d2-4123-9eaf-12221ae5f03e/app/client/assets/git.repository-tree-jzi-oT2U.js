@@ -1,0 +1,2 @@
+import{h as s}from"./chunk-WY5IRSCW-1dc6FieG.js";import{b as a}from"./router-BoVIwh1i.js";async function i({request:r}){const e=new URL(r.url),o=Object.fromEntries(e.searchParams.entries()).projectId;return window.main.git.getRepositoryDirectoryTree({projectId:o})}const m=a(r=>({projectId:e})=>{const t=new URLSearchParams;return t.set("projectId",e),r(`${s("/git/repository-tree")}?${t.toString()}`)});export{i as c,m as u};
+//# sourceMappingURL=git.repository-tree-jzi-oT2U.js.map

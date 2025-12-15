@@ -1,0 +1,2 @@
+import{s as e}from"./index-BnTlsbFl.js";import{S as a}from"./analytics-fpOjxorv.js";import{c as i}from"./router-BoVIwh1i.js";async function r({request:n}){const t=await n.json();return"enableAnalytics"in t&&!t.enableAnalytics&&window.main.trackSegmentEvent({event:a.analyticsDisabled}),await e.patch(t),null}const m=i(n=>({patch:t})=>n(JSON.stringify(t),{method:"POST",action:"/settings/update",encType:"application/json"}));export{r as c,m as u};
+//# sourceMappingURL=settings.update-BK5WtJcK.js.map

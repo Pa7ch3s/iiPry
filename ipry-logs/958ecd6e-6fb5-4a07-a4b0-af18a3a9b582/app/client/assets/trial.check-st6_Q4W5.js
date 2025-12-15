@@ -1,0 +1,2 @@
+import{h as t}from"./chunk-WY5IRSCW-1dc6FieG.js";import{u as s}from"./index-BnTlsbFl.js";import{i as a}from"./insomnia-fetch-B_XbrnGh.js";import{b as o}from"./router-BoVIwh1i.js";function l(i){return a({method:"GET",path:"/v1/trials/eligibility",sessionId:i})}async function h(i){const{id:r}=await s.get();if(!r)return{isEligible:!1};try{const e=await l(r);return{isEligible:"isEligible"in e?e.isEligible:!1}}catch{return{isEligible:!1}}}const u=o(i=>()=>i(t("/trial/check")));export{h as c,l as g,u};
+//# sourceMappingURL=trial.check-st6_Q4W5.js.map

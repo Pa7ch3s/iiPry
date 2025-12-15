@@ -1,0 +1,2 @@
+import{h as i}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c}from"./router-BoVIwh1i.js";async function r({request:t}){console.log("Client action for git fetch",t);const o=await t.json();return window.main.git.gitFetchAction(o)}const a=c(t=>o=>(console.log("Submitting git fetch action",o),t(JSON.stringify(o),{method:"POST",action:i("/git/fetch"),encType:"application/json"})));export{r as c,a as u};
+//# sourceMappingURL=git.fetch-V7uv_IT7.js.map

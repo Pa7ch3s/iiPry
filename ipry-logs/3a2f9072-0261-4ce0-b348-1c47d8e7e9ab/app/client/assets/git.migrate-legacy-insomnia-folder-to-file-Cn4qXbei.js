@@ -1,0 +1,2 @@
+import{h as t}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as i}from"./router-BoVIwh1i.js";async function r({request:e}){const{projectId:o}=await e.json();return window.main.git.migrateLegacyInsomniaFolderToFile({projectId:o})}const c=i(e=>({projectId:o})=>e({projectId:o},{method:"POST",action:t("/git/migrate-legacy-insomnia-folder-to-file"),encType:"application/json"}));export{r as c,c as u};
+//# sourceMappingURL=git.migrate-legacy-insomnia-folder-to-file-Cn4qXbei.js.map

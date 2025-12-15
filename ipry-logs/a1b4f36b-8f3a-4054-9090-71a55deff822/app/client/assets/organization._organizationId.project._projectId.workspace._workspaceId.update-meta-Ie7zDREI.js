@@ -1,0 +1,2 @@
+import{w as r}from"./index-BnTlsbFl.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./invariant-DVddvGrP.js";async function s({request:t,params:o}){const{workspaceId:a}=o,n=await t.json();return await r.updateByParentId(a,n),null}export{s as clientAction};
+//# sourceMappingURL=organization._organizationId.project._projectId.workspace._workspaceId.update-meta-Ie7zDREI.js.map

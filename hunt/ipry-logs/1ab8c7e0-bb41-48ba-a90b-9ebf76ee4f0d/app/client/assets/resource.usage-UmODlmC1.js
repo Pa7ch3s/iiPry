@@ -1,0 +1,2 @@
+import{c as l}from"./resource.usage-CbBoS-Ts.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./trial.check-st6_Q4W5.js";import"./insomnia-fetch-B_XbrnGh.js";import"./router-BoVIwh1i.js";export{l as clientLoader};
+//# sourceMappingURL=resource.usage-UmODlmC1.js.map

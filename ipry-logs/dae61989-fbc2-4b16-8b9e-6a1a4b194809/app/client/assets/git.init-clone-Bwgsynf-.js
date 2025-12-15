@@ -1,0 +1,2 @@
+import{h as e}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as o}from"./router-BoVIwh1i.js";async function s({request:t}){const i=await t.json(),n=await window.main.git.initGitRepoClone(i);return"errors"in n?{errors:n.errors}:{files:n.files}}const a=o(t=>i=>t(JSON.stringify(i),{action:e("/git/init-clone"),method:"POST",encType:"application/json"}));export{s as c,a as u};
+//# sourceMappingURL=git.init-clone-Bwgsynf-.js.map

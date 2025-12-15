@@ -1,0 +1,2 @@
+import{c as l}from"./auth.logout-Bgkq1Ur9.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./session-Dp07jz9w.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./insomnia-fetch-B_XbrnGh.js";import"./router-BoVIwh1i.js";export{l as clientAction};
+//# sourceMappingURL=auth.logout-fvpvoBUP.js.map

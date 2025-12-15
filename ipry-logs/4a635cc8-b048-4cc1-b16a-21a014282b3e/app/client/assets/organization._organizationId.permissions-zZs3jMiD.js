@@ -1,0 +1,2 @@
+import{c as l,s as c}from"./organization._organizationId.permissions-ce3pUO4N.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./insomnia-fetch-B_XbrnGh.js";import"./router-BoVIwh1i.js";export{l as clientLoader,c as shouldRevalidate};
+//# sourceMappingURL=organization._organizationId.permissions-zZs3jMiD.js.map

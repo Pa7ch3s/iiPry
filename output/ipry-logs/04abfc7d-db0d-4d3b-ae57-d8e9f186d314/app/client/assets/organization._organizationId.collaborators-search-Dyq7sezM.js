@@ -1,0 +1,2 @@
+import{c as f}from"./organization._organizationId.collaborators-search-DSW9uxb9.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./insomnia-fetch-B_XbrnGh.js";import"./router-BoVIwh1i.js";export{f as clientLoader};
+//# sourceMappingURL=organization._organizationId.collaborators-search-Dyq7sezM.js.map

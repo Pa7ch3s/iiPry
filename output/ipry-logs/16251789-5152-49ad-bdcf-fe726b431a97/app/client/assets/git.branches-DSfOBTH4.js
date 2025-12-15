@@ -1,0 +1,2 @@
+import{h as c}from"./chunk-WY5IRSCW-1dc6FieG.js";import{b as o}from"./router-BoVIwh1i.js";async function h({request:t}){const s=new URL(t.url),r=Object.fromEntries(s.searchParams.entries()),e=r.workspaceId,a=r.projectId;return window.main.git.getGitBranches({projectId:a,workspaceId:e})}const m=o(t=>({projectId:s,workspaceId:r})=>{const e=new URLSearchParams;return r&&e.set("workspaceId",r),e.set("projectId",s),t(`${c("/git/branches")}?${e.toString()}`)});export{h as c,m as u};
+//# sourceMappingURL=git.branches-DSfOBTH4.js.map

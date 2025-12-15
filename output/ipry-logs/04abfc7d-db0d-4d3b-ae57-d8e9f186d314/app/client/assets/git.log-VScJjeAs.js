@@ -1,0 +1,2 @@
+import{h as s}from"./chunk-WY5IRSCW-1dc6FieG.js";import{b as c}from"./router-BoVIwh1i.js";async function d({request:o}){const e=new URL(o.url),t=Object.fromEntries(e.searchParams.entries()),r=t.workspaceId,a=t.projectId;return window.main.git.gitLogLoader({workspaceId:r,projectId:a})}const m=c(o=>({workspaceId:e,projectId:t})=>{const r=new URLSearchParams;return e&&r.set("workspaceId",e),r.set("projectId",t),o(`${s("/git/log")}?${r.toString()}`)});export{d as c,m as u};
+//# sourceMappingURL=git.log-VScJjeAs.js.map

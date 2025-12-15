@@ -1,0 +1,2 @@
+import{h as r}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as o}from"./router-BoVIwh1i.js";async function c({request:t}){const e=await t.json();return window.main.onDefaultBrowserOAuthRedirect(e),null}const i=o(t=>e=>t(JSON.stringify(e),{method:"POST",action:r("/auth/default-browser-redirect"),encType:"application/json"}));export{c,i as u};
+//# sourceMappingURL=auth.default-browser-redirect-Dz15uuKH.js.map

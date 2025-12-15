@@ -1,0 +1,2 @@
+import{h as i}from"./chunk-WY5IRSCW-1dc6FieG.js";import{i as n}from"./invariant-DVddvGrP.js";import{c as r}from"./router-BoVIwh1i.js";async function s({request:c}){const t=await c.json();return n(typeof t.branch=="string","Branch is required"),window.main.git.checkoutGitBranch(t)}const h=r(c=>t=>c(JSON.stringify(t),{method:"POST",action:i("/git/branch/checkout"),encType:"application/json"}));export{s as c,h as u};
+//# sourceMappingURL=git.branch.checkout-24mct9lT.js.map

@@ -1,0 +1,2 @@
+import{h as n}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as o}from"./router-BoVIwh1i.js";async function r({request:t}){const{code:e,state:i}=await t.json();return await window.main.git.completeSignInToGitLab({code:e,state:i})}const s=o(t=>e=>t(e,{action:n("/git-credentials/gitlab/complete-sign-in"),method:"POST",encType:"application/json"}));export{r as c,s as u};
+//# sourceMappingURL=git-credentials.gitlab.complete-sign-in-iSdK124j.js.map

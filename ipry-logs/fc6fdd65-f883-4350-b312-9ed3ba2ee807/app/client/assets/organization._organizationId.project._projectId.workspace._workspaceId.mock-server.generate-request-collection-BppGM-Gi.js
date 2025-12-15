@@ -1,0 +1,2 @@
+import{c as f}from"./organization._organizationId.project._projectId.workspace._workspaceId.mock-server.generate-request-collection-DcBFb32H.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./analytics-fpOjxorv.js";import"./router-BoVIwh1i.js";export{f as clientAction};
+//# sourceMappingURL=organization._organizationId.project._projectId.workspace._workspaceId.mock-server.generate-request-collection-BppGM-Gi.js.map

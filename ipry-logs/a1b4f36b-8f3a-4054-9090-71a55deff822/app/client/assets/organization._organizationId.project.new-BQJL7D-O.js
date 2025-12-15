@@ -1,0 +1,2 @@
+import{a as l}from"./organization._organizationId.project.new-D3C_sj1w.js";import"./chunk-WY5IRSCW-1dc6FieG.js";import"./chunk-OIYGIGL5-BYynBxW5.js";import"./index-b8gibUUP.js";import"./_commonjsHelpers-CE1G-McA.js";import"./index-BnTlsbFl.js";import"./invariant-DVddvGrP.js";import"./analytics-fpOjxorv.js";import"./insomnia-fetch-B_XbrnGh.js";import"./router-BoVIwh1i.js";export{l as clientAction};
+//# sourceMappingURL=organization._organizationId.project.new-BQJL7D-O.js.map

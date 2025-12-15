@@ -1,0 +1,2 @@
+import{h as o}from"./chunk-WY5IRSCW-1dc6FieG.js";import{i as e}from"./invariant-DVddvGrP.js";import{c as n}from"./router-BoVIwh1i.js";async function c({request:i}){const t=await i.json();return e(typeof t.message=="string","Message is required"),t.push?window.main.git.commitAndPushToGitRepo(t):window.main.git.commitToGitRepo(t)}const m=n(i=>t=>i(JSON.stringify(t),{action:o("/git/commit"),method:"POST",encType:"application/json"}));export{c,m as u};
+//# sourceMappingURL=git.commit-BOTBEKdr.js.map

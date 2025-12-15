@@ -1,0 +1,2 @@
+import{h as r}from"./chunk-WY5IRSCW-1dc6FieG.js";import{r as a}from"./chunk-OIYGIGL5-BYynBxW5.js";import{l as e}from"./session-Dp07jz9w.js";import{c as i}from"./router-BoVIwh1i.js";async function m({request:t}){const o=await t.json();return await e(o.clearCredentials??!1),a(r("/auth/login"))}const l=i(t=>(o={})=>t(JSON.stringify(o),{action:r("/auth/logout"),method:"POST",encType:"application/json"}));export{m as c,l as u};
+//# sourceMappingURL=auth.logout-Bgkq1Ur9.js.map

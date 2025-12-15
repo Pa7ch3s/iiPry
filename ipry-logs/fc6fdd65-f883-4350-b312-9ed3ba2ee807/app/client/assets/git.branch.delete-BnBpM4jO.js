@@ -1,0 +1,2 @@
+import{h as i}from"./chunk-WY5IRSCW-1dc6FieG.js";import{c as n}from"./router-BoVIwh1i.js";import{i as r}from"./invariant-DVddvGrP.js";async function s({request:e}){const t=await e.json();return r(typeof t.branch=="string","Branch is required"),window.main.git.deleteGitBranch(t)}const h=n(e=>t=>e(JSON.stringify(t),{method:"POST",action:i("/git/branch/delete"),encType:"application/json"}));export{s as c,h as u};
+//# sourceMappingURL=git.branch.delete-BnBpM4jO.js.map

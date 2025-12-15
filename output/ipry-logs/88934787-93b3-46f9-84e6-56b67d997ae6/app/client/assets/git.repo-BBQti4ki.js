@@ -1,0 +1,2 @@
+import{h as a}from"./chunk-WY5IRSCW-1dc6FieG.js";import{b as c}from"./router-BoVIwh1i.js";async function p({request:o}){const e=new URL(o.url),t=Object.fromEntries(e.searchParams.entries()),r=t.workspaceId,s=t.projectId;return window.main.git.loadGitRepository({workspaceId:r,projectId:s})}const m=c(o=>({workspaceId:e,projectId:t})=>{const r=new URLSearchParams;return e&&r.set("workspaceId",e),r.set("projectId",t),o(`${a("/git/repo")}?${r.toString()}`)});export{p as c,m as u};
+//# sourceMappingURL=git.repo-BBQti4ki.js.map

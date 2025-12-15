@@ -1,0 +1,2 @@
+import{h as r}from"./chunk-WY5IRSCW-1dc6FieG.js";import{u as s}from"./index-BnTlsbFl.js";import{i}from"./insomnia-fetch-B_XbrnGh.js";import{c as n}from"./router-BoVIwh1i.js";async function l(a){const e=await s.getOrCreate(),{id:o}=e,{salt:t}=await i({method:"GET",path:"/v1/user/vault",sessionId:o});return t&&await s.update(e,{vaultSalt:t}),t}const p=n(a=>()=>a({},{action:r("/auth/update-vault-salt"),method:"POST"}));export{l as c,p as u};
+//# sourceMappingURL=auth.update-vault-salt-BBWvZ0Tc.js.map
