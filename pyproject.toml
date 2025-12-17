@@ -1,0 +1,8 @@
+[project]
+name = "iiPry"
+version = "0.1.0"
+description = "Thick Client Surface Intelligence (static)"
+requires-python = ">=3.9"
+
+[project.scripts]
+iiPry = "ipry.cli:main"

@@ -5,3 +5,12 @@ __pycache__/
 node_modules/
 dist/
 build/
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Runtime output
+output/
+ipry-logs/
